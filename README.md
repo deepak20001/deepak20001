@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **krishnkantpachori50@gmail.com**
+- 📫 How to reach me **djamwal10@gmail.com**
 
 - ⚡ Fun fact **I like to watch thriller animes.**
 
@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/deepak20001/github-readme-stats"><img alt="Krishnaknt Pachori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/deepak20001/github-readme-stats"><img alt="Deepak Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://deepak20001/github-readme-stats"><img alt="Krishnakant Pachori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/deepak20001/github-readme-activity-graph"><img alt="Krishnaknt Pachori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepak20001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/deepak20001/github-readme-activity-graph"><img alt="Deepak Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepak20001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,7 +71,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/krishnkant-pachori-9b274b1b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/deepak-8b4161200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
