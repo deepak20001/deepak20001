@@ -65,7 +65,7 @@
 
 <a href="https://github.com/deepak20001/github-readme-activity-graph"><img alt="Deepak Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepak20001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnatrea&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnatrea&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepak20001)
 
@@ -73,7 +73,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deepak20001)
 
-![Profile views](https://gpvc.arturio.dev/deepak20001)  
+![Profile views](https://gpvc.arturio.dev/deepak20001)   -->
 
 <br/>
 <br/>
