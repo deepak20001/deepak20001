@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **djamwal10@gmail.com**
 
-- ⚡ Fun fact **I like to watch thriller animes.**
+- ⚡ Fun fact **I like to watch animes.**
 
 ## 🚀 Languages and Tools:
 
