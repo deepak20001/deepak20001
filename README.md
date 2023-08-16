@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **djamwal10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CxtfmQkAqT5j9D1Gi1BwEwGBITWC19cb/view?usp=drive_link](https://drive.google.com/file/d/1CxtfmQkAqT5j9D1Gi1BwEwGBITWC19cb/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bbZLRmfp0NuIhItlex9gJn-Q0XHRo-ah/view?usp=sharing](https://drive.google.com/file/d/1bbZLRmfp0NuIhItlex9gJn-Q0XHRo-ah/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
