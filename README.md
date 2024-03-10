@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak20001&label=Profile%20views&color=0e75b6&style=flat" alt="deepak20001" /> </p>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Flutter Cubit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepak20001?tab=repositories](https://github.com/deepak20001?tab=repositories)
 
